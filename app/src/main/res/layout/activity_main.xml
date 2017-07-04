@@ -9,7 +9,7 @@
 
         <variable
             name="viewmodel"
-            type="databinding.pjozsef.github.com.databindingdemo.MainViewModel" />
+            type="databinding.pjozsef.github.com.databindingdemo.ui.MainViewModel" />
     </data>
 
     <android.support.constraint.ConstraintLayout
